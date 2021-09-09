@@ -7,7 +7,7 @@
 На тестирование затрачено: 2 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Val990/1.2-homework-IDEA/issues/1
+* <a href="https://github.com/Val990/1.2-homework-IDEA/issues/1">Issues</a>
 
 
 ## Описание процесса тестирования
